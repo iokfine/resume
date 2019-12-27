@@ -1,2 +1,2 @@
 # aboutme
-我的简历
+a simple resume of nicolas
